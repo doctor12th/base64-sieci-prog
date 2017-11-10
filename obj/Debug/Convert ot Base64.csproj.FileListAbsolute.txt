@@ -1,0 +1,10 @@
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\bin\Debug\Convert ot Base64.exe.config
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\bin\Debug\Convert ot Base64.exe
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\bin\Debug\Convert ot Base64.pdb
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert_ot_Base64.Form1.resources
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert_ot_Base64.Properties.Resources.resources
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert ot Base64.csproj.GenerateResource.Cache
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert ot Base64.csproj.CoreCompileInputs.cache
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert ot Base64.exe
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert ot Base64.pdb
+C:\Users\black\Documents\Sieciowe oprogramowanie\Convert ot Base64\obj\Debug\Convert ot Base64.csprojResolveAssemblyReference.cache
